@@ -1,4 +1,4 @@
-![Header](./[https://raw.githubusercontent.com/AlexLojewski/PV-Trainer-Information/refs/heads/main/images/header.png])
+![Header](./[images/header.png])
 
 # PV Trainer Module and Inverter Data Repository
 
