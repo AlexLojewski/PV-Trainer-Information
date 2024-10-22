@@ -1,7 +1,4 @@
-<picture>
-	<img alt="PV Trainer" src="https://raw.githubusercontent.com/AlexLojewski/PV-Trainer-Information/refs/heads/main/images/header.png">
-</picture>
-
+![Header](./[https://raw.githubusercontent.com/AlexLojewski/PV-Trainer-Information/refs/heads/main/images/header.png])
 
 # PV Trainer Module and Inverter Data Repository
 
