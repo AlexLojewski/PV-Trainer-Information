@@ -1,4 +1,4 @@
-![Header](./[images/header.png])
+![Header](./images/header.png)
 
 # PV Trainer Module and Inverter Data Repository
 
