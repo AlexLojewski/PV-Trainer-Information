@@ -16,7 +16,7 @@ Additionally, the app integrates **irradiation data from PVGIS** (Photovoltaic G
 
 
 
-# If you have a solar module that is not currently listed, feel free to request it to be added.
+### If you have a solar module that is not currently listed, feel free to request it to be added.
 
 CSV Structure
 
