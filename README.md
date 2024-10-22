@@ -60,24 +60,24 @@ In addition to using the default CSV provided in this repository, the <b>PV Trai
 
 How to use your own CSV file:
 
-	1.	**Create your own CSV file** with the same format as described in this README.
-	2.	**Host the CSV file** on a GitHub repository or another accessible URL.
-	3.	In the **PV Trainer app**, go to the menu and enter the **link to your CSV file**. The app will load your custom CSV file instead of the default one.
+	1.	Create your own CSV file with the same format as described in this README.
+	2.	Host the CSV file on a GitHub repository or another accessible URL.
+	3.	In the PV Trainer app, go to the menu and enter the link to your CSV file. The app will load your custom CSV file instead of the default one.
 
 **How to switch to NREL SAM’s CSV:**
 
-If you prefer to use the <b>NREL SAM CSV file</b> instead of the default CSV from this repository:
+If you prefer to use the **NREL SAM CSV file** instead of the default CSV from this repository:
 
-	1.	<b>Go to the menu</b> in the <b>PV Trainer app</b>.
-	2.	<b>Select the option</b> to use the <b>NREL SAM CSV</b>.
+	1.	Go to the menu> in the PV Trainer app.
+	2.	Select the option to use the NREL SAM CSV.
 	3.	The app will then automatically switch to using the module data from NREL’s SAM library, available at this [https://raw.githubusercontent.com/NREL/SAM/develop/deploy/libraries/CEC%20Modules.csv].
 
 By providing flexibility, users can choose between the default module data, their own custom modules, or the official NREL SAM database.
 
-# Contributions
+**Contributions**
 
 We welcome contributions from anyone who is passionate about solar energy and photovoltaics. Please follow the guidelines provided when adding or modifying module data.
 
 Thank you for helping us improve the PV Trainer app and for supporting solar energy research!
 
-# Let me know if you’d like to modify anything or if you need further assistance.
+**Let me know if you’d like to modify anything or if you need further assistance.**
