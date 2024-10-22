@@ -70,7 +70,8 @@ If you prefer to use the **NREL SAM CSV file** instead of the default CSV from t
 
 	1.	Go to the menu> in the PV Trainer app.
 	2.	Select the option to use the NREL SAM CSV.
-	3.	The app will then automatically switch to using the module data from NREL’s SAM library, available at this [https://raw.githubusercontent.com/NREL/SAM/develop/deploy/libraries/CEC%20Modules.csv].
+	3.	The app will then automatically switch to using the module data from NREL’s SAM library, available at this.
+ Link: [https://raw.githubusercontent.com/NREL/SAM/develop/deploy/libraries/CEC%20Modules.csv]
 
 By providing flexibility, users can choose between the default module data, their own custom modules, or the official NREL SAM database.
 
