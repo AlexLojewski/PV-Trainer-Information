@@ -41,30 +41,30 @@ The CSV file follows a specific format to ensure compatibility with the app. Eac
 	2.	Provide Accurate Data: Please ensure that all data is accurate and comes from a reliable source, such as the module’s manufacturer datasheet.
 	3.	Review and Approval: Once submitted, the module will be reviewed and, if approved, added to the CSV file.
 
-# How to Report Issues
+## How to Report Issues
 
 If you find an error in the module data or have other suggestions, feel free to open an issue in the repository. We will review the reported issue and make corrections if necessary.
 
-# Download the CSV
+## Download the CSV
 
 You can always download the latest version of the module CSV from the repository. This file is continuously updated based on the community’s contributions.
 
-# Example CSV Entry
+## Example CSV Entry
 
 Here’s an example of how the data should look in the CSV file:
 Name,Manufacturer,Technology,Bifacial,STC,PTC,A_c,Length,Width,N_s,I_sc_ref,V_oc_ref,I_mp_ref,V_mp_ref,alpha_sc,beta_oc,T_NOCT,gamma_r,Version
 Amerisolar AS-6M-335W,Amerisolar,Mono-c-Si,No,335.0,310.0,1.941,1.956,0.992,72,9.12,45.75,8.66,37.85,0.0046,-0.119,47.5,-0.41,2021
 
-# Use Your Own Custom CSV or Switch to NREL SAM´s CSV
+## Use Your Own Custom CSV or Switch to NREL SAM´s CSV
 In addition to using the default CSV provided in this repository, the <b>PV Trainer app</b> also allows you to <b>use your own custom CSV file</b> or switch to the <b>NREL SAM CSV file</b>.
 
 How to use your own CSV file:
 
-	1.	<b>Create your own CSV file</b> with the same format as described in this README.
-	2.	<b>Host the CSV file</b> on a GitHub repository or another accessible URL.
-	3.	In the <b>PV Trainer app</b>, go to the menu and enter the <b>link to your CSV file</b>. The app will load your custom CSV file instead of the default one.
+	1.	**Create your own CSV file** with the same format as described in this README.
+	2.	**Host the CSV file** on a GitHub repository or another accessible URL.
+	3.	In the **PV Trainer app**, go to the menu and enter the **link to your CSV file**. The app will load your custom CSV file instead of the default one.
 
-<b>How to switch to NREL SAM’s CSV:</b>
+**How to switch to NREL SAM’s CSV:**
 
 If you prefer to use the <b>NREL SAM CSV file</b> instead of the default CSV from this repository:
 
