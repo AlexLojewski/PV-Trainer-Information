@@ -74,6 +74,64 @@ If you prefer to use the **NREL SAM CSV file** instead of the default CSV from t
 
 By providing flexibility, users can choose between the default module data, their own custom modules, or the official NREL SAM database.
 
+**Explanation fo Allowed Cell Type**
+The cell type (Technology) is a crucial field in the module data, as it defines the type of photovoltaic technology used in a given module. Each module can belong to one of the **allowed cell types**, which ensures compatibility with the simulation calculations.
+
+Here is a list of **allowed cell types** and their corresponding mappings to different technology names:
+```ruby
+ALLOWED_CELLTYPES = ["monoSi", "multiSi", "polySi", "cis", "cigs", "cdte", "amorphous"]
+
+TECHNOLOGY_MAPPING = {
+    # Monocrystalline Silicon
+    "Mono-c-Si": "monoSi",
+    "Mono-cSi": "monoSi",
+    "Monocrystalline Silicon": "monoSi",
+    "Mono-Si": "monoSi",
+    "Mono c-Si": "monoSi",
+    "Monocrystalline": "monoSi",
+    "Mono-crystalline": "monoSi",
+    # Multicrystalline Silicon
+    "Multi-c-Si": "multiSi",
+    "Multi-cSi": "multiSi",
+    "Multicrystalline Silicon": "multiSi",
+    "Multi-Si": "multiSi",
+    "Multi c-Si": "multiSi",
+    "Multicrystalline": "multiSi",
+    "Multi-crystalline": "multiSi",
+    # Polycrystalline Silicon
+    "Poly-c-Si": "polySi",
+    "Poly-cSi": "polySi",
+    "Polycrystalline Silicon": "polySi",
+    "Poly-Si": "polySi",
+    "Poly c-Si": "polySi",
+    "Polycrystalline": "polySi",
+    "Poly-crystalline": "polySi",
+    # Amorphous Silicon
+    "Amorphous Silicon": "amorphous",
+    "a-Si": "amorphous",
+    "Amorphous": "amorphous",
+    "Amorphous Silicon (a-Si)": "amorphous",
+    # Cadmium Telluride
+    "CdTe": "cdte",
+    "Cadmium Telluride": "cdte",
+    "Cadmium-Telluride": "cdte",
+    # Copper Indium Diselenide
+    "CIS": "cis",
+    "Copper Indium Diselenide": "cis",
+    "Copper-Indium-Diselenide": "cis",
+    # Copper Indium Gallium Diselenide
+    "CIGS": "cigs",
+    "Copper Indium Gallium Diselenide": "cigs",
+    "Copper-Indium-Gallium-Diselenide": "cigs",
+    # Other Technologies
+    "HIT": "monoSi",  # HIT cells are based on monocrystalline Si with a thin amorphous layer
+    "Heterojunction": "monoSi",
+    "Perovskite": "amorphous",  # No exact equivalent, but can be adapted
+    "DSC": "amorphous",  # Dye-Sensitized Cells can be considered amorphous
+    # Additional technologies can be added as needed
+}
+```
+
 **Contributions**
 
 We welcome contributions from anyone who is passionate about solar energy and photovoltaics. Please follow the guidelines provided when adding or modifying module data.
