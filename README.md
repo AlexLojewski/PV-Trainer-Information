@@ -10,9 +10,9 @@ This repository serves as the source for all photovoltaic module and inverter da
 
 Additionally, the app integrates **irradiation data from PVGIS** (Photovoltaic Geographical Information System) based on the user’s location, as well as real-time **stock market data from SMARD** to provide a comprehensive analysis of solar energy performance and market conditions.
 
-Link PVGIS: [https://joint-research-centre.ec.europa.eu/photovoltaic-geographical-information-system-pvgis_en]
+**Link PVGIS:** [https://joint-research-centre.ec.europa.eu/photovoltaic-geographical-information-system-pvgis_en]
 
-Link SMARD: [https://www.smard.de/home/downloadcenter/download-marktdaten/]
+**Link SMARD:** [https://www.smard.de/home/downloadcenter/download-marktdaten/]
 
 If you have a solar module that is not currently listed, feel free to request it to be added.
 
