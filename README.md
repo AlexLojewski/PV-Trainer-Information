@@ -1,12 +1,14 @@
 ![Header](./images/header.png)
 
-# PV Trainer Module and Inverter Data Repository
+# PV Trainer Repository
 
-Welcome to the official PV Trainer module data repository. This repository stores the CSV file used by the PV Trainer app to simulate IV curves and other functionalities related to photovoltaic modules. The CSV contains detailed information about different solar modules and is regularly updated by the community.
+Welcome to the official **PV Trainer** module data repository. This repository stores the CSV file used by the PV Trainer app to simulate IV curves and other functionalities related to photovoltaic modules. The CSV contains detailed information about different solar modules and is regularly updated by the community.
 
-Overview
+**Overview**
 
-This repository serves as the source for all photovoltaic module data used in the PV Trainer app. The app retrieves this CSV to enable module simulations, IV curve calculations, and more.
+This repository serves as the source for all photovoltaic module and inverter data used in the PV Trainer app. The app retrieves this CSV to enable module simulations, IV curve calculations, and more.
+
+Additionally, the app integrates **irradiation data from PVGIS** (Photovoltaic Geographical Information System) based on the user’s location, as well as real-time **stock market data from SDRAM** to provide a comprehensive analysis of solar energy performance and market conditions.
 
 If you have a solar module that is not currently listed, feel free to request it to be added.
 
