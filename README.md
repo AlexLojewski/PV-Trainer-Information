@@ -1,4 +1,9 @@
-# PV Trainer Module Data Repository
+<picture>
+	<img alt="PV Trainer" src="https://raw.githubusercontent.com/AlexLojewski/PV-Trainer-Information/refs/heads/main/images/header.png">
+</picture>
+
+
+# PV Trainer Module and Inverter Data Repository
 
 Welcome to the official PV Trainer module data repository. This repository stores the CSV file used by the PV Trainer app to simulate IV curves and other functionalities related to photovoltaic modules. The CSV contains detailed information about different solar modules and is regularly updated by the community.
 
