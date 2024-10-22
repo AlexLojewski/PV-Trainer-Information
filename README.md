@@ -12,7 +12,28 @@ CSV Structure
 
 The CSV file follows a specific format to ensure compatibility with the app. Each row in the CSV represents one solar module with the following fields:
 
-TABLE
+| Field Name  | Description |
+| ------------- | ------------- |
+| Name  | Module name  |
+| Manufacturer  | Manufacturer’s name  |
+| Technology  | Solar cell technology (e.g., Mono-c-Si, Multi-c-Si, CdTe, etc.)  |
+| Bifacial  | Indicates if the module is bifacial (Yes/No)  |
+| STC  | Standard Test Conditions (STC) Power [W]  |
+| PTC  | Performance Test Conditions (PTC) Power [W]  |
+| A_c  | Module area [m²]  |
+| Length  | Length of the module [m]  |
+| Width  | Width of the module [m]  |
+| N_s  | Number of cells in series  |
+| I_sc_ref  | Short-circuit current [A]  |
+| V_oc_ref  | Open-circuit voltage [V]  |
+| I_mp_ref  | Maximum power current [A]  |
+| V_mp_ref  | Maximum power voltage [V]  |
+| alpha_sc  | Temperature coefficient of short-circuit current [A/°C]  |
+| beta_oc  | Temperature coefficient of open-circuit voltage [V/°C]  |
+| T_NOCT  | Nominal operating cell temperature (NOCT) [°C]  |
+| gamma_r  | Temperature coefficient of maximum power [%/°C]  |
+| Version  | The version or date of the module specification  |
+
 
 # How to Add a New Module
 
