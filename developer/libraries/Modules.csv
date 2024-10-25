@@ -2,6 +2,7 @@ Name,Manufacturer,Technology,Bifacial,STC,PTC,A_c,Length,Width,N_s,I_sc_ref,V_oc
 Units,,,,,,m2,m,m,,A,V,A,V,A/K,V/K,C,V,A,A,Ohm,Ohm,%,%/K,,,
 [0],lib_manufacturer,cec_material,lib_is_bifacial,,,cec_area,lib_length,lib_width,cec_n_s,cec_i_sc_ref,cec_v_oc_ref,cec_i_mp_ref,cec_v_mp_ref,cec_alpha_sc,cec_beta_oc,cec_t_noct,cec_a_ref,cec_i_l_ref,cec_i_o_ref,cec_r_s,cec_r_sh_ref,cec_adjust,cec_gamma_r,,,
 FuturaSun Silk Nova Duetto All Black FU 420MV, FuturaSun, Mono-c-Si,1,420.0766,411.7284,1.88,,,54,14.09,38.06,13.34,31.49,0.0063405,-0.0951500,45.0,1.3146951,14.1025177,3.7226979e-12,0.1821840,205.0673819,-2.5906727,-0.29,N,2024.10.24,24/10/2024
+FuturaSun Silk Nova Duetto All Black FU 430MV, FuturaSun, Mono-c-Si,1,430.11,420.5754,1.88,,,54,14.25,38.44,13.50,31.86,00.0064125,-0.0961000,45.0,1.3285342,14.2617447,3.8260968e-12,0.1772509,215.0612919,-2.4630228,-0.29,N,2024.10.24,24/10/2024
 JA Solar JAM72S30-530/MR,JA Solar,Mono-c-Si,0,529.879,498.7,2.52,,,72,13.72,49.3,12.83,41.3,0.004802,-0.129166,43.9,1.79051,13.7393,1.47252e-11,0.184861,131.202,4.42066,-0.33,N,2023.10.31,11/16/2022
 JA Solar JAM72D30-535/MB,JA Solar,Mono-c-Si,1,535.35,502,2.52,,,72,13.79,49.5,12.9,41.5,0.0053781,-0.129195,44.8,1.80634,13.8086,1.68721e-11,0.180396,133.94,5.8859,-0.33,N,2023.10.31,11/16/2022
 JA Solar JAM72S30-535/MR,JA Solar,Mono-c-Si,0,535.35,503.5,2.52,,,72,13.79,49.5,12.9,41.5,0.0048265,-0.12969,43.9,1.79816,13.8089,1.4892e-11,0.181823,132.876,4.47183,-0.33,N,2023.10.31,11/16/2022
