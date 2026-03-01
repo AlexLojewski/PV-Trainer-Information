@@ -1,0 +1,91 @@
+Modell,Vdc [V],Pdc_soll [% von Pdco],Pdc [W],Pac [W],Bemerkung
+MI-600,16,10,,,Vmin
+MI-600,16,20,,,Vmin
+MI-600,16,30,,,Vmin
+MI-600,16,50,,,Vmin
+MI-600,16,75,,,Vmin
+MI-600,16,100,,,Vmin
+MI-600,36,10,,,Vnom
+MI-600,36,20,,,Vnom
+MI-600,36,30,,,Vnom
+MI-600,36,50,,,Vnom
+MI-600,36,75,,,Vnom
+MI-600,36,100,,,Vnom
+MI-600,55,10,,,Vmax (MPPT high)
+MI-600,55,20,,,Vmax (MPPT high)
+MI-600,55,30,,,Vmax (MPPT high)
+MI-600,55,50,,,Vmax (MPPT high)
+MI-600,55,75,,,Vmax (MPPT high)
+MI-600,55,100,,,Vmax (MPPT high)
+MI-500,16,10,,,Vmin
+MI-500,16,20,,,Vmin
+MI-500,16,30,,,Vmin
+MI-500,16,50,,,Vmin
+MI-500,16,75,,,Vmin
+MI-500,16,100,,,Vmin
+MI-500,36,10,,,Vnom
+MI-500,36,20,,,Vnom
+MI-500,36,30,,,Vnom
+MI-500,36,50,,,Vnom
+MI-500,36,75,,,Vnom
+MI-500,36,100,,,Vnom
+MI-500,55,10,,,Vmax (MPPT high)
+MI-500,55,20,,,Vmax (MPPT high)
+MI-500,55,30,,,Vmax (MPPT high)
+MI-500,55,50,,,Vmax (MPPT high)
+MI-500,55,75,,,Vmax (MPPT high)
+MI-500,55,100,,,Vmax (MPPT high)
+MI-450,16,10,,,Vmin
+MI-450,16,20,,,Vmin
+MI-450,16,30,,,Vmin
+MI-450,16,50,,,Vmin
+MI-450,16,75,,,Vmin
+MI-450,16,100,,,Vmin
+MI-450,36,10,,,Vnom
+MI-450,36,20,,,Vnom
+MI-450,36,30,,,Vnom
+MI-450,36,50,,,Vnom
+MI-450,36,75,,,Vnom
+MI-450,36,100,,,Vnom
+MI-450,55,10,,,Vmax (MPPT high)
+MI-450,55,20,,,Vmax (MPPT high)
+MI-450,55,30,,,Vmax (MPPT high)
+MI-450,55,50,,,Vmax (MPPT high)
+MI-450,55,75,,,Vmax (MPPT high)
+MI-450,55,100,,,Vmax (MPPT high)
+MI-425,16,10,,,Vmin
+MI-425,16,20,,,Vmin
+MI-425,16,30,,,Vmin
+MI-425,16,50,,,Vmin
+MI-425,16,75,,,Vmin
+MI-425,16,100,,,Vmin
+MI-425,36,10,,,Vnom
+MI-425,36,20,,,Vnom
+MI-425,36,30,,,Vnom
+MI-425,36,50,,,Vnom
+MI-425,36,75,,,Vnom
+MI-425,36,100,,,Vnom
+MI-425,55,10,,,Vmax (MPPT high)
+MI-425,55,20,,,Vmax (MPPT high)
+MI-425,55,30,,,Vmax (MPPT high)
+MI-425,55,50,,,Vmax (MPPT high)
+MI-425,55,75,,,Vmax (MPPT high)
+MI-425,55,100,,,Vmax (MPPT high)
+MI-400,16,10,,,Vmin
+MI-400,16,20,,,Vmin
+MI-400,16,30,,,Vmin
+MI-400,16,50,,,Vmin
+MI-400,16,75,,,Vmin
+MI-400,16,100,,,Vmin
+MI-400,36,10,,,Vnom
+MI-400,36,20,,,Vnom
+MI-400,36,30,,,Vnom
+MI-400,36,50,,,Vnom
+MI-400,36,75,,,Vnom
+MI-400,36,100,,,Vnom
+MI-400,55,10,,,Vmax (MPPT high)
+MI-400,55,20,,,Vmax (MPPT high)
+MI-400,55,30,,,Vmax (MPPT high)
+MI-400,55,50,,,Vmax (MPPT high)
+MI-400,55,75,,,Vmax (MPPT high)
+MI-400,55,100,,,Vmax (MPPT high)
