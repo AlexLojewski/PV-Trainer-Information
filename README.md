@@ -4,6 +4,8 @@
 
 **PV Trainer** is an iOS &amp; iPadOS app for planning, simulating and analysing photovoltaic (PV) systems. This repository is the public **information hub** for the app: it documents what the app can do, hosts reference data and is the place to **suggest missing PV modules** for the module database.
 
+> ⚠️ **Disclaimer:** PV Trainer is an educational tool. All results are **rough guide values** meant to give you a **feel for how a PV system behaves** — they are **not an engineering-grade simulation** and are **not binding for planning decisions**. Always rely on professional planning and manufacturer data for real projects.
+
 ---
 
 ## What the app can do
