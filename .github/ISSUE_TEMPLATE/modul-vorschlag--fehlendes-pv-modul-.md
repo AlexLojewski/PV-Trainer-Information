@@ -8,13 +8,7 @@ assignees: ''
 
 ---
 
----
-name: Modul-Vorschlag (fehlendes PV-Modul)
-about: Ein fehlendes Modul zur Aufnahme in die DB vorschlagen. Datenblatt-Werte genügen.
-title: "[Modul] Hersteller Modellname"
 labels: modul-vorschlag
-assignees: ''
----
 
 Danke für den Vorschlag! Bitte die Werte vom **Datenblatt** eintragen (die Zeile
 mit dem Wert hinter dem Doppelpunkt ausfüllen). Daraus werden die CEC-Single-Diode-
