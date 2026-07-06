@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: "Modul-Vorschlag per E-Mail"
+    url: "mailto:lojewskialexander@gmail.com?subject=Modul-Vorschlag"
+    about: "Lieber per Mail? Schick Hersteller, Modellname und die Datenblatt-Werte."
