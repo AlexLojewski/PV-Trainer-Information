@@ -1,14 +1,13 @@
 ---
-name: Bug report
-about: Create a report to help us improve
+name: Modul-Vorschlag (fehlendes PV-Modul)
+about: Ein fehlendes Modul zur Aufnahme in die DB vorschlagen. Werte vom Datenblatt
+  genügen.
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-name: "Modul-Vorschlag (fehlendes PV-Modul)"
-description: "Ein fehlendes Modul zur Aufnahme in die DB vorschlagen. Werte vom Datenblatt genügen."
 title: "[Modul] <Hersteller Modellname>"
 labels: ["modul-vorschlag"]
 body:
